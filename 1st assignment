@@ -1,0 +1,8 @@
+Database means a information of some entity or customer, which is used to store.Ex. Facebook, insta. We need database because to save a data of customer & provide him when he wants.
+File base storage system is hierarchy method which stores data in computer hardware. Challenges retundancy, security etc.
+Data Base Management system is a software is used to store,retrieve, run queries. The needs is it organise your data & give access to users to control data.
+Integerity Problems, Security, Concurrent data, compatability, data retudancy, cost are the challenges of file base storage system was tackled by DBMS.
+Relational, Hierarchy, distributed, object oriented & network. 
+A DBMS can be classification based on the number of users it supports. It can be a single-user database system, which supports one user at a time, or a multiuser database system, which supports multiple users concurrently.
+Data model helps create a simplified, logical database that eliminates redundancy, reduces storage requirements, and enables efficient.
+The three Schema architecture is a design approach for databases that splits data views into three layers: what users see, the logical structure, and how data is stored.
